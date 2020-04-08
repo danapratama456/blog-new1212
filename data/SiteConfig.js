@@ -13,13 +13,13 @@ const config = {
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   userName: "Dana Pratama", // Username to display in the author segment.
-  userEmail: "youremail@gmail.com", // Email used for RSS feed's author segment
+  userEmail: "dana.pratama456@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "gatsbyjs", // Optionally renders "Follow Me" in the Bio segment.
   userGitHub: "danapratama456",
   userInsta: "dana.pratama456", // Optionally renders "Follow Me" in the Bio segment.
   // Optionally renders "Follow Me" in the Bio segment.
   userLocation: "North Pole, Earth", // User location to display in the author segment.
-  userAvatar: "https://i.ibb.co/WPz9CNk/avatar.jpg", // User avatar to display in the author segment.
+  userAvatar: "https://scontent-sin6-2.cdninstagram.com/v/t51.2885-19/s150x150/14583352_731604846992952_8457167630938144768_a.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_ohc=x9nFu8OKHe0AX_0U-Wt&oh=f7745a07d665d3b28150828dfeeb9e27&oe=5EB5DF2C", // User avatar to display in the author segment.
   userDescription:
     "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
   copyright: "Copyright © 2020. All rights reserved.", // Copyright string for the footer of the website and RSS feed.
