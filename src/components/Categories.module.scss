@@ -1,0 +1,23 @@
+.test {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  .listing {
+    text-decoration: none;
+    background: rgba(141, 154, 169, 0.21);
+    border-radius: 10px;
+    margin: 0 10px 10px 10px;
+    padding: 5px 15px 5px 15px;
+    &:hover {
+      color: #fff;
+      background-color: #0baffc94;
+    }
+  }
+}
+
+@media (max-width: 520px) {
+  .listing {
+    font-size: 0.8rem;
+  }
+}
